@@ -39,15 +39,14 @@
 .back-green h1{
 	margin-top: 20px;
 	margin-bottom: 20px;
-	font-size: 4em;
 	font-weight: bold;
 	color: #fff;
 }
 .back-green p{
 	color: #fff;
-	font-size: 1.2em;
 }
 .triangulo{
+	margin: 0 auto;
     width: 0;
     height: 0;
     border-left: 80px solid transparent;
@@ -60,7 +59,6 @@
 }
 .galeria h1{
 	color: grey;
-	font-size: 4em;
 	font-weight: bold;
 }
 .galeria hr{
@@ -68,7 +66,6 @@
 }
 p{
 	color: grey;
-	font-size: 1.2em;
 }
 .destacados{
 	background-image: url(../img/banner_5.png);
@@ -80,7 +77,6 @@ p{
 }
 .destacados h1{
 	color: #fff;
-	font-size: 4em;
 	font-weight: bold;
 }
 .destacados p{
@@ -88,7 +84,6 @@ p{
 }
 .destacados a{
 	padding: 10px 30px 10px 30px;
-	font-size: 1.2em;
 	color: #fff;
 }
 .videos{
@@ -96,7 +91,6 @@ p{
 }
 .videos h1{
 	color: grey;
-	font-size: 4em;
 	font-weight: bold;
 }
 .descripcion{
@@ -107,10 +101,8 @@ p{
 }
 .descripcion h3{
 	color: #fff;
-	font-size: 1.5em;
 	font-weight: bold;
 }
 .descripcion p{
 	color: #fff;
-	font-size: 1em;
 }
