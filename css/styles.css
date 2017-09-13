@@ -106,3 +106,21 @@ p{
 .descripcion p{
 	color: #fff;
 }
+.descri{
+	background-color: #fff;
+}
+.back-blue{
+	background-color: #2E3192;
+}
+.back-blue p{
+	color: #fff;
+}
+.back-blue h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-weight: bold;
+	color: #fff;
+}
+.footer p{
+	font-size: 0.75rem;
+}
